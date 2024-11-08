@@ -27,7 +27,7 @@ Welcome to the **School Management System**! This web-based application is desig
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/KoustavDeveloper/school-management-system.git
+   git clone https://github.com/KoustavDevelops/school-management-system.git
    cd school-management-system
    ```
 
